@@ -1,0 +1,1 @@
+Stupid layout for a personal blog
